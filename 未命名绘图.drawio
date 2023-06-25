@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T20:46:13.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" version="21.5.0" etag="TRfX1vQgHnGo8ViDbUPb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T23:36:36.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="4E30Lfi2EJkdey7i4VkZ" version="21.5.0" type="github">
   <diagram name="第 1 页" id="YSTOH-KCwIGi2lVG8XZ-">
-    <mxGraphModel>
+    <mxGraphModel dx="662" dy="392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="387" y="171" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="218" y="170" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-1" value="目标一：多样化增多" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-2" value="目标二：减少成本" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WRkYhVbaQh8JXWrua-MJ-2" target="WRkYhVbaQh8JXWrua-MJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="140" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-4" value="互斥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="260" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-6" value="建立数学模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-9" value="目标方程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="228" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-10" value="约束条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="228" y="241" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-11" value="变量设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="228" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="260" as="sourcePoint" />
+            <mxPoint x="388" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-14" value="多目标算法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-15" value="MOEAD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="396" y="178" width="100" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-16" value="NSGA-II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="396" y="233" width="100" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-18" value="算子+全局替换" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="401" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="260" as="sourcePoint" />
+            <mxPoint x="560" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRkYhVbaQh8JXWrua-MJ-20" value="调参&lt;br&gt;逼近帕累托前沿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="227.75" width="100" height="64.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
